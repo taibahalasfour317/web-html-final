@@ -1,0 +1,36 @@
+HTML Final
+----------
+
+What we have covered in the mterial:
+- <h>
+- <p>
+- <title>
+- <!---->
+- <a>
+- <img>
+- Lists: <ol> and <ul>
+- <div>
+- <span>
+- <table> => <th>, <li>
+- Text Format: <em>, <strong>, <i>, <mark>
+- <br>
+
+Extar:
+- <hr>
+- <button>
+- <abbr>
+- <blockquote>
+- icon
+- <marquee>
+- <footer>
+
+Not Covered:
+- Forms
+- <input>
+- <label>
+
+
+Simple CSS intro:
+- Inline => Bad
+- Internal => OK
+- External => Best
